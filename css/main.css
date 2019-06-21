@@ -1,0 +1,71 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+form {
+  margin-left: auto;
+  margin-right: auto;
+}
+.container>.row {
+  margin-top: 75px;
+}
+h2 {
+  text-align: center;
+}
+
+label {
+  text-align: center;
+}
+
+.signinbutton {
+  background-color: yellow
+}
+
+.BottomBlue {
+  color: blue;
+  text-align: center;
+}
+
+.bottombullet {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.form-check-input {
+  text-align: left;
+}
+
+.new-user {
+  text-align: center;
+  color: grey;
+  padding-top: 50px;
+}
+
+.button {
+  text-align: center;
+}
+
+.email-field {
+  text-align: center;
+}
+
+.indent {
+  padding-left: 10px;
+}
+
+.form-check-label {
+  padding-left: 15px;
+}
+
+.btn-default {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightgrey;
+}
+
+.form-check-input {
+  text-align: left;
+}
